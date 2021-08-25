@@ -1,3 +1,3 @@
 # moveit-nextjs
 
-Aplicação feita durante a semana NLW04 juntamente com a rocketseat.
+Application made during the week NLW04 together with rocketseat.
